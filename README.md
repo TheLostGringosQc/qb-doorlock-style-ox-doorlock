@@ -1,3 +1,6 @@
+*WORK IN PROGRESS, BEAUCOUP DE BOG* 
+
+
 # 🔐 QB-Doorlock - Système de Verrouillage Avancé
 
 Un système de verrouillage de portes complet pour QBCore, inspiré d'ox-doorlock avec intégrations ps-inventory et qb-target.
